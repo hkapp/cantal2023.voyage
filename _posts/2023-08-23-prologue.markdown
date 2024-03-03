@@ -31,7 +31,7 @@ Le regard des habitants et l'ambiance générale ne me font pas me sentir le bie
 Quelques églises discrètes parsèment le chemin jusqu'à la cathédrale au centre-ville.
 Les terrasses des cafés qui apparaissent à mesure que je m'en approche me font me sentir plus à mon aise, même si je sens bien l'hypocrisie de ce "safe space blanc".
 
-![abc]({{ BASE_PATH }}/assets/images/IMG_1692810021.jpg)
+![La cathédrale de Clermont-Ferrand, derrière la statue du pape Urbain II]({{site.baseurl}}/assets/images/IMG_1692810021.jpg)
 
 Quand je me décide à rentrer à l'auberge de jeunesse, la température a déjà beaucoup diminué.
 J'entre dans la chambre.
