@@ -16,7 +16,11 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    {%- if page_lang ==  "en" -%}
+      <h2 class="post-list-heading">{{ page.list_title | default: "Entries" }}</h2>
+    {%- else -%}
+      <h2 class="post-list-heading">{{ page.list_title | default: "Étapes" }}</h2>
+    {%- endif -%}
     <ul class="post-list">
       {%- for post in site.posts -%}
         {%- if post.url contains "/en/" -%}
