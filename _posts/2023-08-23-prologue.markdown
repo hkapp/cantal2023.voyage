@@ -2,7 +2,6 @@
 layout: post
 title:  "Prologue - Une nuit d'été"
 date:   2023-08-23 21:10:18 +0100
-categories: jekyll update
 ---
 
 Je suis dans le bus qui m'amène à mon point de départ, Clermont-Ferrand.

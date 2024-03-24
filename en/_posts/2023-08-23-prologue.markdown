@@ -1,72 +1,79 @@
 ---
 layout: post
-title:  "Prologue - Une nuit d'été"
+title:  "Prologue - A summer's night"
 date:   2023-08-23 21:10:18 +0100
-categories: jekyll update
 ---
-Appréhension de la chaleur.
-Température prévue de 37°C à Clermont-Ferrand.
-Alerte canicule orange et rouge dans presque tous les départements alentour.
-Tous les départements limitrophes à l'est du Puy-de-Dôme (le 63) et du Cantal (le 15) sont rouges.
 
-Et à Clermont-Ferrand, température raisonnable. Chaud mais vivable.
-Une petite brise aide beaucoup.
+I'm on the bus to Clermont-Ferrand, the starting point for my adventure.
+During the journey, I check the weather conditions for the first days of my journey.
+After the hot weather in Annecy, where I've been until now, I'm starting to worry about walking in extreme heat.
+Today's forecast in Clermont-Ferrand is 37°C.
+Orange and red heatwave alerts in almost all surrounding departments.
+All departments to the east of the Puy-de-Dôme (63) and Cantal (15), where I'll be walking, are on red alert.
+It's not very reassuring.
 
-Arrivé à l'auberge de Jeunesse, la chambre est un four. Ou plutôt une étuve, au regard de l'humidité.
-Si rester dehors est parfaitement acceptable, dans cette cellule, je suis en sueur sans même bouger.
-Je me dépêche de fuir l'endroit en espérant que la température diminue d'ici à ce que je revienne.
-Les 2 colocataires présents qui restent sciemment dans cette étuve doivent vraiment souffrir.
-Enfin pas tellement vu, que l'un d'entre eux dort.
+When arriving in Clermont-Ferrand, the temperature is reasonable.
+It's hot, but livable.
+The light breeze blowing at regular intervals helps a lot.
 
-La ville est sale.
-En tout cas, c'est l'impression que me donne la rue qui mène de la gare au centre-ville.
-J'ai exactement la même impression qu'à Marseille en sortant de la gare.
-Un quartier sorti d'une autre d'un autre lieu.
-Vitrines délavées ou brisées, marchandises en fouillis dans la rue, jeunes désoeuvrés traînant ça et là.
-Les boutiques au rez-de-chaussée des bâtiments sont vétustes.
-Les vitrines de certaines sont occultées par des rideaux et de grands cartons, alors que d'autres laissent bien voir depuis l'extérieur qu'elles sont parfaitement vides et semblent abandonnées.
-D'autres encore sont si remplies qu'il semble difficile d'en ouvrir la porte.
-Le regard des habitants et l'ambiance générale ne me font pas me sentir le bienvenu.
+I start by putting my things down at the youth hostel before taking a stroll around town.
+When I arrive at the hostel, the room is like an oven.
+Or rather a steam room, considering the humidity.
+If staying outside is perfectly acceptable, in this cell I'm sweating without even moving.
+I hurry out of the place, hoping the temperature will drop by the time I get back.
+The 2 roommates who knowingly stay in this oven must really be suffering.
+Well, not necessarily, as one of them is fast asleep.
 
-Quelques églises discrètes parsèment le chemin jusqu'à la cathédrale au centre-ville.
-Les terrasses des cafés qui apparaissent à mesure que je m'en approche me font me sentir plus à mon aise, même si je sens bien l'hypocrisie de ce "safe space blanc".
+The city is dirty.
+At least, that's the impression I get from the street leading from the station to the city center.
+I get exactly the same impression as the district surrounding the train station in Marseille.
+A neighborhood from another time, another place.
+Faded or broken shop windows, jumbled merchandise in the street, idle youngsters hanging around.
+The stores on the first floor of the buildings are out of shape.
+The windows of some are obscured by curtains and large cardboard boxes, while others make it clear from the outside that they are perfectly empty and seem abandoned.
+Others are so full that it seems difficult to open the door.
+The glares of the locals and the general atmosphere don't make me feel welcome.
 
-![La cathédrale de Clermont-Ferrand, derrière la statue du pape Urbain II]({{site.baseurl}}/assets/images/IMG_1692810021.jpg)
+A few discreet churches dot the path to the cathedral in the center of town.
+The café terraces that appear as I approach the historical centre make me feel more at ease, even if I can sense the hypocrisy of this "white guy safe space".
 
-Quand je me décide à rentrer à l'auberge de jeunesse, la température a déjà beaucoup diminué.
-J'entre dans la chambre.
-Il y fait la même température que lorsque je l'ai quittée il y a quelques heures.
-Le temps que je vide mon sac, je sue déjà à grosses gouttes.
-Je monte dans le lit superposé (je dors en haut).
-La température est telle qu'allongé dans mon lit, je continue à suer.
-Impossible de m'endormir.
-Après une ou deux heures passées à me retourner sans amélioration, je décide de prendre l'air.
-J'ouvre la porte et je sors sur le palier qui donne sur l'extérieur.
-La température est si agréable ici.
-Un pas seulement hors de l'antre dans laquelle je suis censé trouver le sommeil.
-La différence de température entre l'intérieur et l'extérieur est énorme.
-Au moins 5°, peut-être 10.
-L'humidité qui règne dans la chambre ne doit pas aider.
-Impossible de faire du courant d'air dans le dortoir.
-La fenêtre est trop étroite et l'air ne circule pas.
-Je me demande si laisser la porte ouverte faciliterait la circulation, mais après 10 minutes sur le pas de la porte sans noter de changement quelconque, j'abandonne ce plan.
+![Clermont-Ferrand Cathedral, behind the statue of Pope Urban II]({{site.baseurl}}/assets/images/IMG_1692810021.jpg)
 
-Je retourne me coucher là-haut, où la température est encore plus élevée et l'air comme prisonnier.
-Je m'allonge dans les draps déjà trempés de sueur sans trouver le sommeil.
-Je ne suis pas le seul à lutter, mais d'autres ont réussi et nous le font savoir bruyamment.
-Les ronflements n'aident pas à se relaxer pour s'endormir.
+By the time I decide to return to the youth hostel, the temperature outside has dropped considerably.
+I enter the room.
+It's the same temperature as when I left a few hours ago.
+By the time I've emptied my bag, I'm already sweating profusely.
+I climb into the bunk bed (I sleep upstairs).
+The temperature is such that, lying in bed, I continue to sweat.
+Impossible to fall asleep.
+After an hour or two of tossing and turning, I decide to get some fresh air.
+I open the door and step outside onto the landing.
+The temperature here is so pleasant.
+Just one step outside the den in which I'm supposed to be sleeping.
+The temperature difference between inside and outside is enormous.
+At least 5°, maybe 10.
+The humidity in the room isn't helping.
+And it's impossible to improve the situation by letting fresh air into the dormitory: the only window is too narrow and the air doesn't circulate.
+I wonder if leaving the door open would allow some air circulation, but after 10 minutes on the doorstep without noticing any change, I abandon this plan.
 
-Passé 1h du matin, je tente une approche radicale.
-Je sors avec mon oreiller et tente de dormir dehors à même le sol.
-Le dallage en béton grossier est plus confortable qu'il ne semble de prime abord.
-C'est tout de même très dur.
-La température est beaucoup plus agréable, mais le bruit de la rue, mon incapacité à trouver une position confortable et ma position malheureuse, pile sous une lampe extérieure qui s'allume automatiquement toutes les 5 minutes, ne me permettent pas de m'endormir.
-Au bout d'une demi-heure, sans succès, je retourne me coucher dans mon lit, espérant que la température aura fraichi.
-Ce n'est pas le cas.
+I go back upstairs to bed, where the temperature is even higher and the air feels imprisoned.
+I lie down in the already sweat-soaked sheets without finding sleep.
+I'm not the only one struggling, but others have succeeded and let us know loudly.
+Snoring sounds don't help relaxing and falling asleep.
 
-Vers 02h30, je retente l'extérieur.
-Mais cette fois, fort de mon expérience précédente, j'emporte force matérielle : un masque de sommeil pour lutter contre la lampe, et des bouchons d'oreille pour lutter contre le bruit de la rue.
-Je profite même de la forme allongée de mon oreiller pour poser un maximum du poids de mon corps dessus et ainsi lutter contre la dureté du sol.
-Cette deuxième tentative est une réussite.
-Je finis par tomber dans les bras de Morphée.
-Je me réveillerai plus tard vers 05h30 et finirai la nuit dans mon lit.
+After 1 a.m., I try a radical approach.
+I take my pillow and try to sleep outside on the ground.
+The rough concrete slab is more comfortable than it first appears.
+Still, it's very hard.
+The temperature is much more pleasant, but the noise of the street, my inability to find a comfortable position and my unfortunate position, right under an outside lamp that comes on automatically every 5 minutes, don't allow me to fall asleep.
+After half an hour, without success, I return to my bed, hoping that the temperature will have cooled.
+It hasn't.
+
+At around 02:30, I try the outside again.
+But this time, based on my previous experience, I take along a sleeping mask to combat the lamp, and earplugs to combat the street noise.
+I even take advantage of the elongated shape of my pillow to put as much of my body weight on it as possible and thus combat the hardness of the ground.
+This second attempt is a success.
+I end up falling into the arms of Morpheus.
+I wake up later at around 05:30 and end the night in my own bed.
+
+What a good night's sleep to start walking for over a week...
