@@ -77,3 +77,5 @@ Je finis par tomber dans les bras de Morphée.
 Je me réveillerai plus tard vers 05h30 et finirai la nuit dans mon lit.
 
 Quelle bonne nuit de sommeil pour commencer à marcher pendant plus d'une semaine...
+
+[_Première étape_]({{ site.baseurl }}{% post_url 2023-08-24-day1 %})
