@@ -22,7 +22,7 @@ layout: default
       <h2 class="post-list-heading">{{ page.list_title | default: "Étapes" }}</h2>
     {%- endif -%}
     <ul class="post-list">
-      {%- for post in site.posts -%}
+      {%- for post in site.posts reversed -%}
         {%- if post.url contains "/en/" -%}
           {%- assign post_lang = "en" -%}
         {%- else -%}
