@@ -2,11 +2,10 @@
 
   <div class="wrapper">
     {%- if page.url contains "/en/" -%}
-      {%- assign site_title = site.title_en -%}
+      <a class="site-title" rel="author" href="{{ "/en/" | relative_url }}">{{ site.title_en | escape }}</a>
     {%- else -%}
-      {%- assign site_title = site.title -%}
+      <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
     {%- endif -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site_title | escape }}</a>
 
     <nav class="site-nav">
       <input type="checkbox" id="nav-trigger" class="nav-trigger" />
