@@ -11,6 +11,7 @@ Distance : 23 km
 Dénivelé : 800m +/-
 
 ---
+<br>
 
 Au matin du premier jour, je prend le bus pour Vulcania, qui m'amène hors de la ville de Clermont-Ferrand.
 Le parc Vulcania formera mon point de départ pour mon périple pédestre.
@@ -39,6 +40,8 @@ Ce retard m'interroge.
 Une heure de différence n'est pas à prendre à la légère.
 D'autant plus que je n'ai pas vraiment fait de pause durant la montée.
 Il faudra que je garde un œil sur la montre cette après-midi.
+
+![La chaîne des puys depuis le sommet du Puy de Dôme]({{site.baseurl}}/assets/images/IMG_1692876216.jpg)
 
 Tout en repoussant dans ma tête l'heure d'arrivée prévue du soir, je décide de faire le tour du sommet.
 C'est si étendu qu'il est impossible de tout voir alentour d'un seul point.
@@ -104,6 +107,10 @@ C'est plutôt bon signe.
 Il me reste entre 1h30 et 2h de marche jusqu'à Vernines.
 Tant que le moral tient, ça ira.
 
+![Le Puy de Dôme semble déjà loin derrière moi]({{site.baseurl}}/assets/images/IMG_1692899313.jpg)
+<p style="color:gray;" align="center"> <i> Le Puy de Dôme semble déjà loin derrière moi </i> </p>
+
+
 Le sentier passe sous la départementale, puis par un sentier au milieu des champs.
 J'ai quitté le tracé du GR pour arriver jusqu'à Vernines.
 Je suis maintenant à la merci de ma lecture de carte, car le sentier que j'emprunte n'est pas balisé, mais est indiqué sur la carte.
@@ -121,7 +128,7 @@ Les 3 derniers kilomètres le long de la route départementale me semblent inter
 Au bout de ceux-ci, j'arrive enfin à l'hébergement, un peu avant 20h.
 Le "gîte entier" que j'ai loué est en fait un appartement dans un petit bâtiment de plain-pied.
 Les vacanciers qui logent dans l'appartement à côté du mien, me voyant arriver, sont surpris que je sois à pied.
-En entendant que je n'ai pas encore mangé, ils se précipite pour m'offrir des tomates de leur propre jardin.
+En entendant que je n'ai pas encore mangé, ils se précipitent pour m'offrir des tomates de leur propre jardin.
 C'est très gentil à eux.
 
 C'est la fin d'une longue journée.  
