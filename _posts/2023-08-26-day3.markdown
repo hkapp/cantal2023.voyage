@@ -57,13 +57,13 @@ Jusqu'à la dernière section de l'ascension sommitale, je n'avais vu qu'une seu
 Sur cette dernière section, quelques trails runners courageux s'entraînent à monter jusqu'au sommet, venant du côté de Super Besse.
 Au sommet, je rencontre quelques autres randonneurs déterminés qui ont pour la plupart emprunté un chemin plus intéressant que la piste de ski que j'ai suivie.
 
-![Montée dans la brume]({{site.baseurl}}/assets/images/IMG_1693035390.jpg)
-
 Personne ne reste longtemps au sommet.
 En même temps, on ne voit absolument rien, le brouillard bouchant la vue à 25m.
 C'est bien dommage, car la table panoramique indique que l'on peut normalement voir le Puy de Dôme, d'où je viens, et le Puy Mary, où je me rends.
 Comme les autres, peu impressionnés par le panorama, je redescends rapidement.
 Direction Super Besse, de l'autre côté du massif par rapport à Mont d'or.
+
+![Montée dans la brume]({{site.baseurl}}/assets/images/IMG_1693035390.jpg "Montée dans la brume")
 
 J'ai beau continuer à marcher dans le brouillard, je ne saurais expliquer pourquoi, je suis d'excellente humeur.
 Le moral toujours pas miné par le vent, l'humidité et le manque de visibilité, je finis par sortir du brouillard.
@@ -93,7 +93,7 @@ Elles ne se remettent à leur activité principale qu'une fois que je les aies d
 J'ai beau être serein, je reste sur mes gardes.
 Surtout que le taureau, même s'il ne s'intéresse pas trop à moi, est très imposant.
 
-![Taureau de race Salers]({{site.baseurl}}/assets/images/IMG_1693050600.jpg)
+![Taureau de race Salers]({{site.baseurl}}/assets/images/IMG_1693050600.jpg "Taureau de race Salers")
 
 Après la chapelle, le sentier longe une route départementale qui serpente au milieu de "champs à vaches".
 À mesure que j'avance, quelques rapaces, qui avant mon arrivée se reposaient sur les poteaux délimitant les parcelles, s'envolent, visiblement dérangés par ma présence. 
