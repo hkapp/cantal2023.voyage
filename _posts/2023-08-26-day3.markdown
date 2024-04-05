@@ -26,6 +26,11 @@ Même si le sommet est invisible pour le moment, le début du chemin qui y monte
 Le chemin a l'air assez facile, bien large, peu pentu et pas accidenté.
 L'hiver, il s'agit probablement d'une piste de ski.
 
+<p align="middle">
+  <img src="{{site.baseurl}}/assets/images/IMG_1693032915b.jpg" width="50%" />
+  <img src="{{site.baseurl}}/assets/images/IMG_1693033137b.jpg" width="47%" /> 
+</p>
+
 En montant, j'observe de grands rapaces qui planent doucement au-dessus des pentes herbeuses.
 Sur quelques clichés, on dirait un vautour.  
 Outre les oiseaux, je garde aussi un œil sur les nuages.
@@ -51,6 +56,8 @@ Aujourd'hui, j'ai droit à cette agréable surprise.
 Jusqu'à la dernière section de l'ascension sommitale, je n'avais vu qu'une seule personne sur le sentier.
 Sur cette dernière section, quelques trails runners courageux s'entraînent à monter jusqu'au sommet, venant du côté de Super Besse.
 Au sommet, je rencontre quelques autres randonneurs déterminés qui ont pour la plupart emprunté un chemin plus intéressant que la piste de ski que j'ai suivie.
+
+![Montée dans la brume]({{site.baseurl}}/assets/images/IMG_1693035390.jpg)
 
 Personne ne reste longtemps au sommet.
 En même temps, on ne voit absolument rien, le brouillard bouchant la vue à 25m.
@@ -84,7 +91,9 @@ Elles n'ont pas l'air aussi habituées que les vaches suisses à voir des marche
 Alors que je m'approche, beaucoup s'arrêtent de brouter pour m'observer.
 Elles ne se remettent à leur activité principale qu'une fois que je les aies dépassées.
 J'ai beau être serein, je reste sur mes gardes.
-Surtout que le taureau, même s'il ne s'intéresse pas trop à moi, est très imposant. 
+Surtout que le taureau, même s'il ne s'intéresse pas trop à moi, est très imposant.
+
+![Taureau de race Salers]({{site.baseurl}}/assets/images/IMG_1693050600.jpg)
 
 Après la chapelle, le sentier longe une route départementale qui serpente au milieu de "champs à vaches".
 À mesure que j'avance, quelques rapaces, qui avant mon arrivée se reposaient sur les poteaux délimitant les parcelles, s'envolent, visiblement dérangés par ma présence. 
@@ -133,6 +142,9 @@ J’observe le comportement des troupeaux, de loin.
 Comme la majorité des bêtes de fermes, ces animaux sont grégaires.
 Elles ont néanmoins chacune leur caractère.
 On identifie rapidement celles qui, dès lors qu'une barrière s'ouvre, s'aventurent dans le nouvel espace, et celles qui, plus prudentes, attendent que la majorité du troupeau soit passée pour s’y risquer.
+
+![Le Puy de Sancy semble déjà loin]({{site.baseurl}}/assets/images/IMG_1693060441.jpg)
+<p style="color:gray;" align="center"> <i> Le Puy de Sancy (au centre) semble déjà loin... </i> </p>
 
 Le sentier me fait aussi traverser des hameaux farmiers d'une dizaine de bâtiments.
 Il y est difficile de distinguer ceux qui sont encore utilisés une partie de l’année de ceux qui sont complètement laissés à l'abandon.
