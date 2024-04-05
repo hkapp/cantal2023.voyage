@@ -4,9 +4,6 @@ title:  "Day 3 - Égliseneuve-d'Entraigues, via Puy de Sancy"
 date:   2023-08-26 21:10:18 +0100
 ---
 
-Start point: Vernines  
-Destination: Mont-Dore  
-
 Start point: Mont-Dore  
 Destination: Égliseneuve-d'Entraigues  
 Highlight: Puy de Sancy  
