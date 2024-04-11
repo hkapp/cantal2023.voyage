@@ -158,3 +158,5 @@ I leave them as I take a path to the left that leads me to the gîte d'étape at
 
 I'll be the only one sleeping at the gîte tonight.
 This allows me to plan the next day's route in perfect calm, and to read my book before falling profoundly asleep.
+
+[_Next day_]({{ site.baseurl }}{% post_url en/2023-08-27-day4 %})
