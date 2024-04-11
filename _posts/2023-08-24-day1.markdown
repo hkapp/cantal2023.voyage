@@ -133,3 +133,5 @@ C'est très gentil à eux.
 
 C'est la fin d'une longue journée.  
 Continuerai-je demain ?
+
+[_Prochaine étape_]({{ site.baseurl }}{% post_url 2023-08-25-day2 %})

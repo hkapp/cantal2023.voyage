@@ -47,3 +47,5 @@ Ces quelques kilomètres seront les seuls que j'accomplirai à pied aujourd'hui,
 Mes épaules se font toujours sentir lorsque je porte le sac, mais mes jambes pas trop.
 
 Je vais donc essayer de compléter l'étape de demain.
+
+[_Prochaine étape_]({{ site.baseurl }}{% post_url 2023-08-26-day3 %})

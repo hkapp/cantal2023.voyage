@@ -46,3 +46,5 @@ These few kilometers will be the only ones I walk today, but they confirm that I
 My shoulders still feel the strain of carrying my backpack, but I don't feel my legs that much.
 
 Optimistic once more, I'll try to complete tomorrow's hiking day.
+
+[_Next day_]({{ site.baseurl }}{% post_url en/2023-08-26-day3 %})

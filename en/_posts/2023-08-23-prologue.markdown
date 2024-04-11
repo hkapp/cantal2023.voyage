@@ -77,3 +77,5 @@ I end up falling into the arms of Morpheus.
 I wake up later at around 05:30 and end the night in my own bed.
 
 What a good night's sleep to start walking for over a week...
+
+[_Next day_]({{ site.baseurl }}{% post_url en/2023-08-24-day1 %})

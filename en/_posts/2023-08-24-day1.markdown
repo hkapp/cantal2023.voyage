@@ -132,3 +132,5 @@ How nice of them.
 
 It's the end of a long day.  
 Will I continue tomorrow?
+
+[_Next day_]({{ site.baseurl }}{% post_url en/2023-08-25-day2 %})
