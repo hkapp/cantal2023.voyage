@@ -126,3 +126,5 @@ The atmosphere is very different this time around though, with all the people in
 I thus prepare dinner in this friendly, festive atmosphere.
 
 After the music stops, around 22:00, it all becomes much quieter and I can go to sleep in silence.
+
+[_Next day_]({{ site.baseurl }}{% post_url en/2023-08-28-day5 %})
