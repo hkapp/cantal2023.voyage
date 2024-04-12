@@ -126,3 +126,5 @@ Mais l’ambiance est cette fois très différente, avec tous ces gens sous les 
 Je prépare donc mon repas du soir dans cette ambiance conviviale et festive.
 
 Une fois la musique terminée, vers 22:00, tout devient beaucoup plus calme et je peux aller me coucher dans le silence.
+
+[_Prochaine étape_]({{ site.baseurl }}{% post_url 2023-08-28-day5 %})
