@@ -216,3 +216,5 @@ Je n'étais déjà pas très motivé par cette activité, et je pense l'être en
 
 Heureusement pour moi, dans les prochains jours, aucun alpinisme n'est prévu.
 Que de la marche.
+
+[_Prochaine étape_]({{ site.baseurl }}{% post_url 2023-08-29-day6 %})
