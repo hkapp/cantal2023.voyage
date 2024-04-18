@@ -219,3 +219,5 @@ I was already not so motivated by this activity, and I think I'm even less so no
 
 Fortunately for me, no mountaineering is planned for the next few days.
 Just walking.
+
+[_Next day_]({{ site.baseurl }}{% post_url en/2023-08-29-day6 %})
