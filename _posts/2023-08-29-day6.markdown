@@ -218,3 +218,5 @@ En fait, c'est plutôt une brasserie tenue par un couple de jeunes assez branch�
 
 J'ai hâte d'accomplir l'étape de demain.
 Le but ultime du voyage.
+
+[_Prochaine étape_]({{ site.baseurl }}{% post_url 2023-08-30-day7 %})
