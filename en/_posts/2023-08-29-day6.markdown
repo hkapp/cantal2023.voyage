@@ -221,3 +221,5 @@ It doesn't change anything, and it's even for the better, but I'd be curious to 
 
 I'm looking forward to tomorrow's hiking day.
 I'll reach the ultimate goal of this trip.
+
+[_Next day_]({{ site.baseurl }}{% post_url en/2023-08-30-day7 %})
