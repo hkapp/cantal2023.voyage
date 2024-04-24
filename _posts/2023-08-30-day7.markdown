@@ -28,6 +28,10 @@ Il arrive un moment où il finit par dépasser lentement les montagnes en face d
 Je suis malheureusement dans une partie boisée lorsque cela se produit, ce qui m'empêche de profiter complètement du spectacle.
 J'arrive néanmoins à prendre quelques photos décentes.
 
+![Les 2 biches]({{site.baseurl}}/assets/images/IMG_1693379868.jpg)
+<p style="color:gray;" align="center"> <i> 2 biches, stars de la matinée </i> </p>
+
+
 En sortant de cette section boisée, je comprends que je vais enfin pouvoir profiter d'une belle matinée.
 Il fait un beau soleil, parfois caché par un ou deux nuages, mais rien à voir avec l'accablante brume des matins précédents.
 Je peux déjà distinguer le sommet ultime que je ne devrais pas tarder à atteindre.
@@ -53,6 +57,8 @@ Puisqu'elles continuent à se déplacer sur le sentier, toujors dans le même se
 Probablement gênées, elles finissent par se décaler sur le côté et dévaler la pente à une vitesse vertigineuse pour atteindre la forêt en contrebas.
 Après leur départ, je peux admirer la mer de nuages qui s'étend désormais au pied du plomb du Cantal.
 
+![Faucon]({{site.baseurl}}/assets/images/IMG_1693388071b.jpg)
+
 Je continue de monter, puisque le chemin ne fait que ça, et finis par atteindre un premier sommet.
 Je vérifie la carte pour m'assurer que ce n'est pas le Plomb du Cantal : il n'en est rien.
 Il s'agit du Puy du Rocher, un sommet intermédiaire.
@@ -74,6 +80,8 @@ Au sommet, j'ai la sensation satisfaisante du but accompli malgré les efforts n
 C'est assez grisant.
 Une forme d'euphorie qui n'oublie pas le chemin accompli.
 C'était dur, mais j'ai réussi.
+
+![Succès débloqué]({{site.baseurl}}/assets/images/IMG_1693385907.jpg)
 
 Une fois la vague émotionnelle passée, je contemple le paysage.
 La différence entre le côté nord et le côté sud est saisissante.
@@ -100,6 +108,9 @@ Tout but que le Plomb du Cantal représente pour moi, ce n'est pas encore la fin
 Il faut maintenant que je continue à marcher dans le but d'atteindre Saint-Flour demain, et retourner à la civilisation.
 Cela commence par redescendre de ce sommet majestueux, atteint au prix de tant d'efforts.
 
+![La vue vers le Sud]({{site.baseurl}}/assets/images/IMG_1693387470.jpg)
+<p style="color:gray;" align="center"> <i> L'aplanissement vers Saint-Flour </i> </p>
+
 La descente effectuée, je m'attable au restaurant du col.
 Il n'y en a qu'un d'ouvert.
 J'ai donc de la chance qu'ils aient encore de la place, puisque je n'ai toujours rien à manger dans mon sac, et que la salle est bien pleine.
@@ -124,3 +135,5 @@ C'est un peu similaire au plateau du Limon des jours précédents, à la différ
 Le manque total de personnes, combiné à l'homogénéité des paysages et à la perte de but, désormais accompli, rendent le chemin jusqu'à Paulhac peu intéressant.
 
 Je ne peux m'empêcher de régulièrement regarder en arrière avec ce qui semble être déjà un léger sentiment de nostalgie.
+
+![Au centre, le Plomb du Cantal]({{site.baseurl}}/assets/images/IMG_1693398221.jpg "Au centre, le Plomb du Cantal")
