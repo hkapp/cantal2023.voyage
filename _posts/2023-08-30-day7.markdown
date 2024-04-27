@@ -136,3 +136,5 @@ Le manque total de personnes, combiné à l'homogénéité des paysages et à la
 Je ne peux m'empêcher de régulièrement regarder en arrière avec ce qui semble être déjà un léger sentiment de nostalgie.
 
 ![Au centre, le Plomb du Cantal]({{site.baseurl}}/assets/images/IMG_1693398221.jpg "Au centre, le Plomb du Cantal")
+
+[_Prochaine étape_]({{ site.baseurl }}{% post_url 2023-08-31-day8 %})
