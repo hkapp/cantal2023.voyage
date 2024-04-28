@@ -136,3 +136,5 @@ The total lack of people, combined with the homogeneity of the landscape and the
 I can't help looking back at the Plomb from time to time, with what already seems to be a slight sense of nostalgia.
 
 ![In the center, the Plomb du Cantal]({{site.baseurl}}/assets/images/IMG_1693398221.jpg "In the center, the Plomb du Cantal")
+
+[_Next day_]({{ site.baseurl }}{% post_url en/2023-08-31-day8 %})
