@@ -86,7 +86,7 @@ Vers la fin de la matinée, une forme se dessine dans la brume.
 Il s'agit d'une vache.
 À mesure que je m'approche, je distingue le reste du troupeau.
 Les vaches sont paisiblement allongées sur l'herbe, accompagnées de leurs veaux et du taureau.
-Cepandant, elles sont allongées pile sur le sentier.
+Cependant, elles sont allongées pile sur le sentier.
 Elles sont disposées de manière si compacte qu'il ne semble pas raisonnable d'essayer de traverser le troupeau, surtout sous l'œil du taureau.
 Je ne voudrais pas le risquer.
 Contourner le troupeau ne semble pas aisé non plus, puisque l'endroit où se troupeau a décidé de se stationner forme un petit promontoire bordé de pentes herbeuses très raides.
@@ -155,7 +155,7 @@ Dans ces conditions, il me semble même être plus agréable d'être entouré de
 ![La vallée qui mène au Puy Mary]({{site.baseurl}}/assets/images/IMG_1693302863.jpg)
 <p style="color:gray;" align="center"> <i> La vallée, et le Puy Mary (au fond à droite). </i> </p>
 
-Arrivée au sommet, j'ai la chance de profiter d'une ouverture dans la couche nuageuse.
+Arrivé au sommet, j'ai la chance de profiter d'une ouverture dans la couche nuageuse.
 Le ciel reste bas mais on voit bien aux alentours.
 C'est un vrai panorama à 360° qui s'offre à moi.
 Parmi les différents sommets couverts d'herbe bien verte, un cône gris se détache.
